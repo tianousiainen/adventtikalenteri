@@ -11,6 +11,16 @@ p {
     color:white;
 }
 
+#text {
+    color: black;
+    background-color:coral;
+    text-align: center;
+    position: fixed;
+    right: 200px;
+    bottom: 300px;
+    font-size: 35px;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: 30% 10% 10% 10% 10% 30%;
