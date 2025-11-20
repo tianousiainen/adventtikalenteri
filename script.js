@@ -20,11 +20,19 @@ luukut[16] = "Daiquiri";
 luukut[17] = "Negroni";
 luukut[18] = "Cosmopolitan";
 luukut[19] = "Irish Coffee";
-luukut[20] = "Espresso Martini";
+luukut[20] = "20.12 <br> <b>Espresso Martini</b> <br> ainekset: <br> 3cl vodkaa <br> 3cl kahvilikööriä <br> \
+            3cl tuorettaa espressoa <br> (maun mukaan sokeria tai sokerisiirappia) <br> \
+            koristeeksi kolme kahvipapua <br> <b>valmistusohjeet:</b> <br> 1. Mittaa cocktailshakeriin, <br> 3cl vodkaa, <br> 3cl kahvilikööriä ja 3cl tuoretta espressoa \
+            <br> 2. Sekoita. <br> Halutessasi voit lisätä mukaan hieman <br> sokeria tai sokerisiirappia";
 luukut[21] = "Hugo";
 luukut[22] = "Limoncello spritz";
 luukut[23] = "Valkovenäläinen";
 luukut[24] = "Sex on the beach"
+
+function playAudio(){
+    let music = document.getElementById("jingle_Bells");
+    music.play();
+}
 
 //sivuston lataamisen yhteydessä ajettavat funktiot kerätty tämän funktion sisään
 function setCurrentDay() {
@@ -57,15 +65,20 @@ function openOldBoxes(day) {
 
 //Laatikon avauslogiikka tänne. Kutsutaan laatikon onClickillä
 function openBox(boxIdNumber) {
+    const today = new Date();
+    const day = today.getDate();
     const boxId = "box" + boxIdNumber;
     const box = document.getElementById(boxId);
    
     document.getElementById("text").innerHTML = luukut[boxIdNumber];
     //avataan vain tämän päivän laatikko
     if (day == boxIdNumber) {
+        let sound = document.getElementById("openAudio");
+        sound.play();
         //openBox-logiikka
     } else {
         //wrong box
+        document.getElementById("text").innerHTML = "Väärä luukku"
     }
 }
 
