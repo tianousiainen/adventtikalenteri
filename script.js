@@ -20,10 +20,12 @@ luukut[16] = "Daiquiri";
 luukut[17] = "Negroni";
 luukut[18] = "Cosmopolitan";
 luukut[19] = "Irish Coffee";
-luukut[20] = "20.12 <br> <b>Espresso Martini</b> <br> ainekset: <br> 3cl vodkaa <br> 3cl kahvilikööriä <br> \
+luukut[20] = "20.12 <br> <b>Espresso Martini</b> <br> <b>ainekset:</b> <br> 3cl vodkaa <br> 3cl kahvilikööriä <br> \
             3cl tuorettaa espressoa <br> (maun mukaan sokeria tai sokerisiirappia) <br> \
             koristeeksi kolme kahvipapua <br> <b>valmistusohjeet:</b> <br> 1. Mittaa cocktailshakeriin, <br> 3cl vodkaa, <br> 3cl kahvilikööriä ja 3cl tuoretta espressoa \
-            <br> 2. Sekoita. <br> Halutessasi voit lisätä mukaan hieman <br> sokeria tai sokerisiirappia";
+            <br> 2. Sekoita. <br> Halutessasi voit lisätä mukaan hieman <br> sokeria tai sokerisiirappia <br> 3. Lisää mukaan isoja jääpaloja. Sulje shaker <br> ja ravistele \
+            voimakkaasti noin 15 sekuntia. <br> Kun shakerin piinta kylmenee, juoma on valmis. <br> 4. Siivilöi juoma tarjoilulasiin <br> ja koristele kolmella kahvipavulla \
+            ";
 luukut[21] = "Hugo";
 luukut[22] = "Limoncello spritz";
 luukut[23] = "Valkovenäläinen";
