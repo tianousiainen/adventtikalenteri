@@ -104,17 +104,17 @@ function openBox(boxIdNumber) {
     const today = new Date();
     const day = today.getDate();
     const boxId = "box" + boxIdNumber;
-    const box = document.getElementById(boxId);
-   
-    document.getElementById("text").innerHTML = luukut[boxIdNumber];
-    //avataan vain tämän päivän laatikko
-    if (day == boxIdNumber) {
-        let sound = document.getElementById("openAudio");
-        sound.play();
-        //openBox-logiikka
-    } else {
-        //wrong box
-        document.getElementById("text").innerHTML = "Väärä luukku"
+    const box = document.getElementById(boxId);   
+    
+    //avataan vain tämän tai edellisen päivän laatikko
+    if (day >= boxIdNumber || (day == 30 && boxIdNumber == 30)) {
+        document.getElementById("text").innerHTML = luukut[boxIdNumber];
+
+        //jos halutaan avausääni
+        //let sound = document.getElementById("openAudio");
+        //sound.play();
+    } else {        
+        document.getElementById("text").innerHTML = "Eipäs hötkyillä, ho ho hoo" //Tulevan päivän laatikon avausteksti
     }
 }
 
