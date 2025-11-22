@@ -43,18 +43,31 @@ luukut[7] = "7.12 <br> <b>Champagne Sour</b> <br> <b>Ainekset:</b> <br> 1-2 cl s
             2. Täytä lasi hitaasti samppanjalla <br> ja sekoita lusikalla. <br> \
             3. Lisää koristeeksi pieni siivu sitruunaa <br> tai appelsiinia.\
             <img src=\"pictures/champagneSour.jpg\">";
-luukut[8] = "Mimosa";
-luukut[9] = "Bellini";
-luukut[10] = "Rommikola";
-luukut[11] = "Pina Colada"
-luukut[12] = "Caipiroska";
-luukut[13] = "Mai-Tai";
-luukut[14] = "Spicy Fifty";
-luukut[15] = "Moscow Mule";
-luukut[16] = "Daiquiri";
-luukut[17] = "Negroni";
-luukut[18] = "Cosmopolitan";
-luukut[19] = "Irish Coffee";
+luukut[8] = "8.12 <br> <b>Mimosa</b> <br> <b>Ainekset: </b> <br> 1 osa kylmää, puolikuivaa kuohuviiniä <br> 1 osa appelsiinituoremehua <br> \
+            <b>Valmistusohjeet:</b> <br> 1. Kaada kuohuviinilasin appelsiinituoremehua <br> ja päälle kuohuviiniä. Sekoita varovasti <br> \
+            2. Koristele juoma appelsiini- tai <br> sitruunaviipaleella tai marjoilla. <img src=\"pictures/Mimosa.jpg\">"  ;
+luukut[9] = "9.12 <br> <b>Bellini </b> <br> <b>Ainekset: </b> <br> 10cl kuohuviiniä, esim. proseccoa <br> 5cl persikkapyreetä <br> koristeluun: <br> persikkalohko <br> \
+            <b>valmistusohjeet: </b> <br> 1. Annostele persikkapyree kuohuviinilasin pohjalle <br> 2. Kaada kuohuviinin pyreen päälle ja sekoita <br> 3. Koristele drinkki persikkaviipaleella. <img src=\"pictures/Bellini.jpg\">" ;
+luukut[10] = "10.12 <br> <b>Rommikola </b> <br> <b>Ainekset:</b> <br> 4cl rommia <br> 10cl colajuomaa <br> jäitä <br> <b>Valmistusohjeet: </b> <br> 1. Täytä highball-lasi jääpaloilla <br> 2. Kaada lasiiin ensin neljä senttilitraa rommia <br>\
+            ja kymmenen senttilitraa colajuomaa <br> 3. Sekoita ja tarjoa rommikola <img src=\"pictures/Rommikola.jpg\">";
+luukut[11] = "11.12 <br> <b> Pina Colada</b> <br> <b>Ainekset:</b> <br> 3dl jäisiä ananaksenpaloja <br> 1,5dl kylmää kookosmaitoa <br> 1,5dl kylmää ananasmehua <br> 4cl vaaleaa rommia <br> ruokosokeria maun mukaan <br> jääpaloja <br> \
+            <b>Valmistusohjeet:</b> <br> 1. Lisää kaikki ainekset tehosekoittimeen ja <br> surauta juoma tasaiseksi. <br> 2. Kaada valmis juoma lasiin ja <br> koristele esim. tuoreella ananaksella <img src=\"pictures/pinaColada.jpg\">";
+luukut[12] = "12.12 <br> <b>Caipiroska </b> <br> <b>Ainekset:</b> <br> 4cl vodkaa <br> 2tl sokeria <br> 1 limentti <br> jäitä <br> <b>Valmistusohjeet</b> <br> 1. Leikkaa limentti neljäksi lohkoksi. <br> Lisää lohkot ja kaksi <br>teelusikallista sokeria On the Rocks- lasiin. <br> \
+            Murskaa limetit sokerin kanssa <br> 2. Täytä lasi jäämurskalla ja <br> lisää neljä senttilitraa vodkaa. <br> 3. Nauti caipiroska viileänä <img src=\"pictures/Caipiroska.jpg\">";
+luukut[13] = "13.12<br> <b>Mai-Tai</b> <br> <b>Ainekset:</b> <br> 4cl tummaa rommia <br> 2cl amarettoa <br> 1 1/2 cl dry curacaoa <br> 4cl tuorepuristettua limenttimehua <br> 1cl sokerisiirappia <br> jäitä <br> <b>valmistusohjeet:</b> <br> koristeeksi: pala tuoretta ananasta <br> tuore tai cocktailkirsikka <br>\
+            minttua <br> limettiä <br> <b>Valmistusohjeet:</b> <br> 1. Kaada kaikki drinkin ainekset <br> jäillä täytettyyn shakeriin <br> 2. Ravista voimakkaasti, <br> odota muutama minuutti ja kaada lasiin. <br> 3. Koristele drinkki ananaslohkolla, <br> kirsikalla, mintulla ja limetillä \
+            <img src=\"pictures/Mai-Tai.jpg\">";
+luukut[14] = "14.12 <br> <b>Spicy Fifty</b> <br> <b>Ainekset:</b> <br> 50ml Vodka Vaniljaa <br> 15 ml Seljankukka Cordialia <br> 15ml tuoretta limemehua <br> 10ml hunajasiirappia <br> 2 ohutta viipaletta Red Chili Pepper <br> <b> Valmistusohjeet</b> <br> 1. Kaada kaikki ainekset cocktail- shakeriin <br> 2. Ravista\
+            hyvin jäällä <br> 3. Siivilöi juoma jäähdytettyyn cocktail-lasiin <br> 4. Koristele punaisella chilipippurilla <img src=\"pictures/spicyFifty.jpg\">";
+luukut[15] = "15.12 <br> <b>Moscow Mule</b> <br> <b>Ainekset:</b> <br> 4cl vodkaa <br> 2cl limettimehua <br> 12cl ginger beer <br> <b>Valmistusohjeet:</b> <br> 1. Täytä kuparimuki tai lasi jäillä <br> 2. Lisää vodkaa ja limettimehu,<br> pidennä inkiväärioluella <br> 3. Koristele limentinlohkolla. <img src=\"pictures/moscowMule.jpg\">";
+luukut[16] = "16.12 <br> <b>Daiquiri</b> <br> <b>Ainekset:</b> <br> 4cl vaaleaa rommia <br> 3cl tuorepuristettua limentinmehua <br> 1 1/2 cl sokerisiirappia <br> jäitä <br> Koristelu: 1 limetin kuoriviipale <br> <b>Valmistusohje:</b> <br> 1. Mittaa shakeriin nejä senttilitraa rommia, <br> kolme senttilitraa tuorepuristettua limetinmehua <br> ja\
+            puolitoista senttilitraa sokerisiirappia. <br> 2. Lisää shakeriin jäitä, sulje ja ravista kylmäksi. <br> 3. Tuplasiivilöi jäähdytettyyn coupe-lasiin <br> 4. Koristele daiquiri limetin kuorella <img src=\"pictures/Daiquiri.jpg\">";
+luukut[17] = "17.12 <br> <b>Negroni</b> <br> <b>Ainekset:</b> <br> 3cl giniä <br> 3cl makeaa vermuttia <br> 3cl punaista katkeroa eli grogikatkeroa <br> jääpaloja <br> koristeeksi appelsiininsiivu tai appelsiininkuorisuikale <br> <b>Valmistusohjeet:</b> <br> 1. Mittaa On the Rocks -lasiin gini, vermutti ja katkero <br> 2. Täytä lasi jääpaloilla ja sekoita \
+           <br> 3. Koristele appelsiininsiivulla tai <br> appelsiininkuorisuikaleella <img src=\"pictures/Negroni.jpg\">";
+luukut[18] = "18.12 <br> <b>Cosmopolitan</b> <br> <b>Ainekset:</b> <br> 2 1/2 cl vodkaa <br> 1 1/2 cl triple sec -likööriä <br> 1cl limettimehua <br> 3cl karpalomehua <br> <b>Valmistusohjeet:</b> <br> 1. Ravista ainesosat jäiden kanssa <br> 2. Siivilöi juoma jäähdytettyyn cocktaillasiin <br> 3.Koristele lisäämällä lasinreunaan limetinlohko <br> tai sitruunakiehkura\
+            <img src=\"pictures/Cosmopolitan.jpg\">";
+luukut[19] = "19.12 <br> <b>Irish Coffee</b> <br> <b>Ainekset:</b> <br> 1 1/2 dl vahvaa kahvia <br> 1/2 dl kuohukermaa <br> 2 tl fariinisokeria <br> 4cl viskiä <br> pinnalle 1/4 tl kaakaojauhetta <br> <b>Valmistusohjeet:</b> <br> 1. Keitä kahvi. Vatkaa kerma löysäksi vaahdoksi <br> 2. Mittaa sokeri lasin pohjalle ja kaada kahvi päälle <br> Sekoita, kunnes sokeri on liuennut <br> \
+            3. Lisää viski ja sekoita kevyesti <br> 4. Valuta kerma juoman päälle niin,<br> että vaahto ei sekoitu kahviin.<br> 5. Siivilöi kaakoajauhetta halutessasi <br> juoman pinnalle ja tarjoile <img src=\"pictures/irishCoffee.jpg\">";
 luukut[20] = "20.12 <br> <b>Espresso Martini</b> <br> <b>Ainekset:</b> <br> 3cl vodkaa <br> 3cl kahvilikööriä <br> \
             3cl tuorettaa espressoa <br> (maun mukaan sokeria tai sokerisiirappia) <br> \
             koristeeksi kolme kahvipapua <br> <b>Valmistusohjeet:</b> <br> 1. Mittaa cocktailshakeriin, <br> 3cl vodkaa, <br> 3cl kahvilikööriä ja 3cl tuoretta espressoa \
@@ -90,6 +103,11 @@ luukut[24] = "24.12 <br> <b>Sex on the beach <br> Ainekset:</b> <br> 2cl vodkaa 
 function playAudio(){
     let music = document.getElementById("jingle_Bells");
     music.play();
+}
+
+function pauseAudio(){
+    let music = document.getElementById("jingle_Bells");
+    music.pause();
 }
 
 //sivuston lataamisen yhteydessä ajettavat funktiot kerätty tämän funktion sisään
