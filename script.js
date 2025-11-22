@@ -62,26 +62,26 @@ luukut[20] = "20.12 <br> <b>Espresso Martini</b> <br> <b>Ainekset:</b> <br> 3cl 
             voimakkaasti noin 15 sekuntia. <br> Kun shakerin piinta kylmenee, juoma on valmis. <br> 4. Siivilöi juoma tarjoilulasiin <br> ja koristele kolmella kahvipavulla \
             <img src=\"pictures/espressoMartini.jpg\">";
 
-luukut[21] = "21.12 <br> <b>Hugo <br> ainekset:</b> <br> 2rkl tuoretta minttua <br> 2cl seljankukkamehutiivistettä <br> 10cl kuohuviiniä <br> jäitä <br> <b>valmistusohjeet:</b> <br> \
+luukut[21] = "21.12 <br> <b>Hugo <br>Aainekset:</b> <br> 2rkl tuoretta minttua <br> 2cl seljankukkamehutiivistettä <br> 10cl kuohuviiniä <br> jäitä <br> <b>Valmistusohjeet:</b> <br> \
             1. Laita isohkon viinilasin pohjalle jääpaloja, mintunlehdet sekä limetin siivu. <br> \
             2. Mittaa lasiin seljankukkamehutiiviste. <br> \
             3. Kaada päälle Prosecco. <br> \
             4. Pidennä oman maun mukaan tilkalla kivennäisvettä. \
             <img src=\"pictures/Hugo.jpg\">";
             
-luukut[22] = "22.12 <br> <b>Limoncello spritz <br> ainekset:</b> <br> 1/2dl kuohuviiniä <br> 1/2dl limoncelloa <br> 1/2dl kivennäisvettä <br> sitruunaviipale <br> jäitä <br> <b>valmistusohje:</b> <br> \
+luukut[22] = "22.12 <br> <b>Limoncello spritz <br> Ainekset:</b> <br> 1/2dl kuohuviiniä <br> 1/2dl limoncelloa <br> 1/2dl kivennäisvettä <br> sitruunaviipale <br> jäitä <br> <b>Valmistusohje:</b> <br> \
             1. Kaada isoon viinilasiin kuohuviini ja sen jälkeen Limoncello likööri. <br> \
             2. Lisää lasiin runsaasti jäitä ja kivennäisvettä. <br> \
             3. Lisää lasiin sitruunaviipale. \
             <img src=\"pictures/limoncelloSpritz.jpg\">";
 
-luukut[23] = "23.12 <br> <b>Valkovenäläinen <br> ainekset:</b> <br> 3cl vodkaa <br> 3cl kahvilikööriä <br> 1/2dl kermaa tai vastaavaa <br> jäitä <br> <b>valmistusohje:</b> <br> \
+luukut[23] = "23.12 <br> <b>Valkovenäläinen <br> Ainekset:</b> <br> 3cl vodkaa <br> 3cl kahvilikööriä <br> 1/2dl kermaa tai vastaavaa <br> jäitä <br> <b>Valmistusohje:</b> <br> \
             1. Lisää jäät lasiin. <br> \
             2. Kaada sekaan vodka ja kahvilikööri. <br> \
             3. Kaada kerma lasiin varovasti lusikan kautta. Älä sekoita. \
             <img src=\"pictures/Valkovenäläinen.jpg\">";
 
-luukut[24] = "24.12 <br> <b>Sex on the beach <br> ainekset:</b> <br> 2cl vodkaa <br> 2cl persikkalikööriä <br> 4cl karpalomehua <br> 8cl appelsiinimehua <br> jäitä <br> <b>valmistusohje:</b> <br> \
+luukut[24] = "24.12 <br> <b>Sex on the beach <br> Ainekset:</b> <br> 2cl vodkaa <br> 2cl persikkalikööriä <br> 4cl karpalomehua <br> 8cl appelsiinimehua <br> jäitä <br> <b>Valmistusohje:</b> <br> \
             1. Kaada vodka, persikkalikööri, karpalomehu, ja appelsiinimehu jääpaloilla täytettyyn shakeriin. Ravista. <br> \
             2. Kaada juoma ja jäät lasiin. <br> \
             3. Koristele halutessasi esimerkiksi appelsiiniviipaleella. \
